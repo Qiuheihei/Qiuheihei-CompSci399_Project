@@ -91,5 +91,5 @@ $ npm run build // this will build the server code to es5 js codes and generate 
 
 ## Contributor
 
-[Melo Guan](https://meloguan.info)
+[Lukai Qiu]
 
